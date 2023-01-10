@@ -1,3 +1,1 @@
 # cryptopals (RUST)
-
-SSH test:)
